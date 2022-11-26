@@ -1,0 +1,333 @@
+@media (max-width: 1200px) {
+    .wonderful {
+        font-size: 67px;
+    }
+}
+
+@media (max-width: 900px) {
+    .menu1column {
+        padding-right: 3.66%;
+    }
+
+    .copyright {
+        margin-top: 150px;
+    }
+
+    .indonesian {
+        display: block;
+    }
+
+    .indonezian-text {
+        text-align: center;
+    }
+
+    .culture::before {
+        left: 180px;
+    }
+
+    .main-text {
+        font-size: 25px;
+    }
+
+    .womens-bg {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .main-text p {
+        font-size: 25px;
+    }
+
+    .holiday-p {
+        font-size: 25px;
+    }
+
+    .women_bg img {
+        margin-top: 286px;
+    }
+
+    .head {
+        margin-top: -417px;
+    }
+
+    .scroll {
+        margin-top: 233px;
+    }
+
+    .search button {
+        margin-top: 23px;
+    }
+
+}
+
+@media (max-width: 850px) {
+    .bottom_menu {
+        display: block;
+        justify-content: space-between;
+        padding: 4.04% 0 7.4% 0;
+    }
+
+    .input_container {
+        margin-bottom: 25px;
+    }
+
+    .indonesian {
+        display: block;
+        text-align: center;
+    }
+
+    .culture::before {
+        left: 108px;
+    }
+
+    .main-text {
+        font-size: 25px;
+    }
+
+    .search button {
+        margin-top: 5px;
+    }
+
+    .head {
+        margin-top: -411px;
+    }
+
+    .women_bg img {
+        max-width: 100%;
+        margin-top: 303px;
+    }
+
+    womens-bg {
+        margin-top: 30px;
+    }
+
+    .main-text p {
+        font-size: 25px
+    }
+
+    .head h1 {
+        font-size: 86px;
+    }
+
+    .wonderful {
+        font-size: 61px;
+    }
+}
+
+@media (max-width: 600px) {
+    .indonesian {
+        display: block;
+    }
+
+    .wonderful {
+        font-size: 55px;
+    }
+
+    .nature {
+        font-size: 27px;
+    }
+
+    .bottom_menu {
+        display: block;
+        justify-content: space-between;
+        padding: 8.04% 0 9.4% 0;
+    }
+
+    .menu1column {
+        padding-right: 10.66%;
+        padding-bottom: 20px;
+    }
+
+    .copyright {
+        margin-top: 140px;
+    }
+
+    .bottom_logo {
+        font-size: 35px;
+        margin-top: 308px;
+    }
+
+    .bottom_menu_head button {
+        width: unset;
+        min-width: auto;
+        padding: 24px 30px 24px 30px;
+    }
+
+    .logo {
+        margin: 301px -24px 0;
+    }
+
+    .womens-bg img {
+        width: 100%;
+        margin-bottom: -190px;
+        margin-top: 50px;
+    }
+
+    .main-text h1 {
+        font-size: 60px;
+    }
+
+    .main-text p {
+        font-size: 25px;
+    }
+
+    .bromo-gradient {
+        background: linear-gradient(360deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+    }
+
+    .holiday {
+        font-size: 35px;
+        margin: 0 0 43px;
+    }
+
+    .nusa {
+        font-size: 24px;
+        letter-spacing: 6px;
+        margin: 74px 0 20px;
+    }
+
+    .women_bg img, .womens_bg img {
+        width: 100%;
+        margin-top: 270px;
+    }
+
+    .head {
+        margin-top: -364px;
+        margin-left: 27%;
+    }
+
+    .indonezian-text {
+        text-align: center;
+    }
+
+    .search button {
+        margin-top: 0;
+    }
+
+    .background2 {
+        height: 1480px;
+    }
+
+}
+
+@media (max-width: 500px) {
+    .menu_container {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .bottom_menu_head button {
+        margin-left: 246px
+    }
+
+    .bottom_logo {
+        margin-top: 147px;
+    }
+
+    .culture::before {
+        left: 23px;
+    }
+
+    .tenggara {
+        display: block;
+    }
+
+    .wrap {
+        text-align: center;
+    }
+
+    .holiday {
+        font-size: 64px;
+    }
+
+    .scroll {
+        margin-top: 212px;
+    }
+
+    .head h1 {
+        font-size: 75px;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .indonesian {
+        display: block;
+    }
+
+    .bottom_menu {
+        display: block;
+        padding: 6.04% 0 9.4% 0;
+    }
+
+    .terms_policy_social {
+        display: block;
+    }
+
+    .terms_policy {
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .bottom_menu_head button {
+        margin-left: 131px;
+        margin-top: 38px;
+    }
+
+    .bottom_logo {
+        margin-top: 201px;
+    }
+
+    .indonezian-text .text h1 {
+        font-size: 45px;
+    }
+
+    .main-text h1 {
+        font-size: 45px;
+    }
+
+    .main-text p {
+        font-size: 21px;
+    }
+
+    .holiday {
+        font-size: 45px;
+    }
+
+    .side {
+        margin-left: 39px;
+    }
+
+    .head {
+        margin-top: -415px;
+        margin-left: 23%;
+    }
+
+    .head h1 {
+        font-size: 60px;
+    }
+
+    .nature {
+        font-size: 21px;
+    }
+
+    .search button {
+        margin-top: 2px;
+    }
+
+    .qwery {
+        width: 25%;
+        margin: 79px 0 0 38px;
+    }
+
+    .links li {
+        list-style: none;
+        margin-right: 31px;
+        margin-top: 109px;
+    }
+}
+
+
